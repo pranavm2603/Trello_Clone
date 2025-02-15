@@ -1,8 +1,9 @@
-# React + Vite
+# Drag-and-Drop Task Management Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **drag-and-drop task management board** built using **React.js**. It allows users to seamlessly organize tasks across multiple lists with real-time updates.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Intuitive Drag-and-Drop**: Easily move tasks between different lists.
+- **Mobile-Friendly UI**: Designed with **Tailwind CSS** for a smooth experience on all devices.
+- **Persistent Data**: Uses **local storage** to ensure tasks remain saved even after a browser refresh.
+- **Card Editor**: Manage task details, due dates, and descriptions efficiently.
